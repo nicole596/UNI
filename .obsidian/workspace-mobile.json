@@ -1,0 +1,197 @@
+{
+  "main": {
+    "id": "797d106eb0cb8a43",
+    "type": "split",
+    "children": [
+      {
+        "id": "574e03161332c16b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ad5e624013589caa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Algoritmia Avanzada/02. Análisis de datos.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "02. Análisis de datos"
+            }
+          },
+          {
+            "id": "bef4c5cbd7143641",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ética y filosofía política/Ética Socrática.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ética Socrática"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "87bd9df96965ed7c",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "f56d966946fe8cdf",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Explorador de archivos"
+        }
+      },
+      {
+        "id": "f6b7afb5281efe6f",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Buscar"
+        }
+      },
+      {
+        "id": "662d5caa0ce89453",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Etiquetas"
+        }
+      },
+      {
+        "id": "2121a189db7d48c3",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Marcadores"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "0088d387b80b4366",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "f9e2dbf1da95dc1b",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Grafos y recorridos.md",
+            "collapseAll": true,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Enlaces entrantes"
+        }
+      },
+      {
+        "id": "7648856911e60801",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Algoritmia Avanzada/Backtracking.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Enlaces salientes"
+        }
+      },
+      {
+        "id": "732074a4d3e48fd7",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Algoritmia Avanzada/02. Análisis de datos.md",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Esquema"
+        }
+      }
+    ],
+    "currentTab": 2
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "bef4c5cbd7143641",
+  "lastOpenFiles": [
+    "Sin título.md",
+    "Ética y filosofía política/Ética Socrática.md",
+    "Ética y filosofía política",
+    "Algoritmia Avanzada/02. Análisis de datos.md",
+    "Sin título 1.md",
+    "Algoritmia Avanzada/Backtracking.md",
+    "Algoritmia Avanzada/03. Estructuras de datos de la STL.md",
+    "Pasted image 20260921111140.png",
+    "Pasted image 20260921105305.png",
+    "Grafos y recorridos.md",
+    "Algoritmia Avanzada/01. Algoritmos y estructuras de datos.md",
+    "Pasted image 20260921115031.png",
+    "Pasted image 20260921114929.png",
+    "Pasted image 20260921111158.png",
+    "Pasted image 20260921111055.png",
+    "Pasted image 20260921110103.png",
+    "Algoritmia Avanzada/Programación Dinámica.md",
+    "Algoritmia Avanzada",
+    "Lenguaje de Programación/Estructuras Básicas.md",
+    "Lenguaje de Programación/Archivos (Files).md",
+    "Lenguaje de Programación/Listas Enlazadas.md",
+    "Lenguaje de Programación/Memoria y Punteros.md",
+    "Lenguaje de Programación"
+  ]
+}
