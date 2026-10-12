@@ -99,6 +99,20 @@
           "icon": "lucide-bookmark",
           "title": "Marcadores"
         }
+      },
+      {
+        "id": "82817d1842a24dbf",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-archive",
+          "title": "Todas las propiedades"
+        }
       }
     ],
     "currentTab": 0
