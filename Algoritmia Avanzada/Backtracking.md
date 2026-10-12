@@ -1,3 +1,4 @@
+#Backtracking 
 # Introducción
 
 Es un método para encontrar todas las posibles soluciones en un espacio de búsqueda mediante la iteración (Deep First Search).

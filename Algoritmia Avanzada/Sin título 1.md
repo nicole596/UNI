@@ -1,4 +1,4 @@
- # Backtracking — Resumen (teoría + código + problemas resueltos)
+ #Backtracking — Resumen (teoría + código + problemas resueltos)
 
 ## 1. ¿Qué es backtracking?
 
