@@ -8,35 +8,34 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ad5e624013589caa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Algoritmia Avanzada/02. Análisis de datos.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "02. Análisis de datos"
-            }
-          },
-          {
             "id": "bef4c5cbd7143641",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algoritmia Avanzada/06. Deque.md",
+                "file": "Algoritmia Avanzada/07. List.md",
                 "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "07. List"
+            }
+          },
+          {
+            "id": "7edec8394281e2d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Algoritmia Avanzada/06. Deque.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "06. Deque"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -160,7 +159,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Algoritmia Avanzada/06. Deque.md",
+            "file": "Algoritmia Avanzada/07. List.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -184,7 +183,9 @@
   },
   "active": "bef4c5cbd7143641",
   "lastOpenFiles": [
+    "Algoritmia Avanzada/06. Deque.md",
     "Algoritmia Avanzada/07. List.md",
+    "Algoritmia Avanzada/02. Análisis de datos.md",
     "Ética y filosofía política/Ética Socrática.md",
     "Recursos/Pasted image 20260921115031.png",
     "Recursos/Pasted image 20260921114929.png",
@@ -197,12 +198,10 @@
     "Algoritmia Avanzada/Sin título 2.md",
     "Algoritmia Avanzada/Sin título 1.md",
     "Algoritmia Avanzada/Grafos y recorridos.md",
-    "Algoritmia Avanzada/06. Deque.md",
     "Algoritmia Avanzada/05. Vector.md",
     "Algoritmia Avanzada/04. Array.md",
     "Sin título.md",
     "Ética y filosofía política",
-    "Algoritmia Avanzada/02. Análisis de datos.md",
     "Sin título 1.md",
     "Algoritmia Avanzada/Backtracking.md",
     "Algoritmia Avanzada/03. Estructuras de datos de la STL.md",
