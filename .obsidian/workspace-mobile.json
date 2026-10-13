@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Algoritmia Avanzada/07. List.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -28,14 +28,15 @@
               "type": "markdown",
               "state": {
                 "file": "Algoritmia Avanzada/06. Deque.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "06. Deque"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -159,7 +160,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Algoritmia Avanzada/07. List.md",
+            "file": "Algoritmia Avanzada/06. Deque.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -181,10 +182,10 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "bef4c5cbd7143641",
+  "active": "7edec8394281e2d0",
   "lastOpenFiles": [
-    "Algoritmia Avanzada/06. Deque.md",
     "Algoritmia Avanzada/07. List.md",
+    "Algoritmia Avanzada/06. Deque.md",
     "Algoritmia Avanzada/02. Análisis de datos.md",
     "Ética y filosofía política/Ética Socrática.md",
     "Recursos/Pasted image 20260921115031.png",
