@@ -53,15 +53,14 @@
             "id": "f38568abd92863fd",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/appearance.json",
-                "bFile": ".obsidian/appearance.json",
-                "aRef": "HEAD",
-                "bRef": ""
+                "file": "Fisica 2/Formulario Física II (FB401) – Parcial.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: appearance.json  (Index)"
+              "icon": "lucide-file",
+              "title": "Formulario Física II (FB401) – Parcial"
             }
           }
         ],
@@ -127,8 +126,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "c2b90d6d3308bdfd",
