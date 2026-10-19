@@ -56,7 +56,7 @@ $$
 $$
 $$
 \vec E=\int k\,\frac{dq}{r^{2}}\,\hat u_r\qquad dq=\lambda\,d\ell=\sigma\,dS=\rho\,dV
-$$
+
 $$
 
 **Anillo (radio a, carga Q) sobre su eje**
