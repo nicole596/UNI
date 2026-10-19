@@ -160,6 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Fisica 2/Formulario Física II (FB401) – Parcial.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -202,6 +203,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Fisica 2/Formulario Física II (FB401) – Parcial.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -221,7 +223,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -239,7 +241,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f38568abd92863fd",
+  "active": "17ce6f1c669ebb7f",
   "lastOpenFiles": [
     "Algoritmia Avanzada/04. Array.md",
     "Algoritmia Avanzada/05. Vector.md",
