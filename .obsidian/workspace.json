@@ -41,20 +41,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algoritmia Avanzada/06. Deque.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "06. Deque"
-            }
-          },
-          {
-            "id": "f38568abd92863fd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Fisica 2/Formulario Física II (FB401) – Parcial.md",
                 "mode": "source",
                 "source": false
@@ -64,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -204,8 +190,8 @@
               "type": "outline",
               "state": {
                 "file": "Fisica 2/Formulario Física II (FB401) – Parcial.md",
-                "followCursor": false,
-                "showSearch": false,
+                "followCursor": true,
+                "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
@@ -243,10 +229,12 @@
   },
   "active": "17ce6f1c669ebb7f",
   "lastOpenFiles": [
+    "Formulario Física II (FB401) – Parcial.md",
+    "Algoritmia Avanzada/06. Deque.md",
+    "Fisica 2/Formulario Física II (FB401) – Parcial.md",
     "Algoritmia Avanzada/04. Array.md",
     "Algoritmia Avanzada/05. Vector.md",
     "Algoritmia Avanzada/07. List.md",
-    "Algoritmia Avanzada/06. Deque.md",
     "Algoritmia Avanzada/02. Análisis de datos.md",
     "Algoritmia Avanzada/03. Estructuras de datos de la STL.md",
     "Recursos/Pasted image 20260921115031.png",
