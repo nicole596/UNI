@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "574e03161332c16b",
+        "id": "d03c1a422b8ececb",
         "type": "tabs",
         "children": [
           {
-            "id": "ce4c8768a26f5530",
+            "id": "4b68248f3a885d47",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fisica 2/Sin título.md",
+                "file": "Algoritmia Avanzada/Sin título.md",
                 "mode": "source",
                 "source": false
               },
@@ -167,11 +167,12 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "ce4c8768a26f5530",
+  "active": "4b68248f3a885d47",
   "lastOpenFiles": [
+    "Algoritmia Avanzada/Sin título.md",
     "Algoritmia Avanzada/07. List.md",
-    "Fisica 2/Formulario Física II (FB401) – Parcial.md",
     "Fisica 2/Sin título.md",
+    "Fisica 2/Formulario Física II (FB401) – Parcial.md",
     "Algoritmia Avanzada/06. Deque.md",
     "Algoritmia Avanzada/02. Análisis de datos.md",
     "Ética y filosofía política/Ética Socrática.md",
